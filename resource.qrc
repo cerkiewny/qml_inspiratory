@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>file_explorer.qml</file>
+    </qresource>
+</RCC>
+
