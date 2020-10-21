@@ -1,6 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>file_explorer.qml</file>
+        <file>rowvsrowlayout.qml</file>
     </qresource>
 </RCC>
 

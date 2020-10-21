@@ -11,7 +11,7 @@ int main(int argv, char ** argc){
     QQmlEngine engine;
     QQmlComponent component(&engine);
     QQuickWindow::setDefaultAlphaBuffer(true);
-    component.loadUrl(QUrl("qrc:///file_explorer.qml"));
+    component.loadUrl(QUrl("qrc:///rowvsrowlayout.qml"));
 
     if ( component.isReady() )
         component.create();
